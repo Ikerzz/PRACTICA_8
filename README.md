@@ -3,4 +3,4 @@
 - EstudianteA
 - EstudianteB
 ## Cambios realizados
-- Varios
+- - Añadida página de registro
